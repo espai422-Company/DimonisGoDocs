@@ -4,7 +4,7 @@ Esta política de privacidad describe cómo se recopila, utiliza y comparte la i
 
 Recopilación y Uso de la Información
 
-Nuestra aplicación no recopila ningún dato personal identificable. Sin embargo, para ofrecer la mejor experiencia de juego, podemos utilizar la ubicación proporcionada por tu dispositivo para generar desafíos y actividades dentro del juego.
+Nuestra aplicación no recopila ningún dato personal identificable a parte de correo electronico. Sin embargo, para ofrecer la mejor experiencia de juego, podemos utilizar la ubicación proporcionada por tu dispositivo para generar desafíos y actividades dentro del juego.
 
 Compartir de la Información
 
