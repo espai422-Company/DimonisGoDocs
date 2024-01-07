@@ -1,6 +1,6 @@
 Política de Privacidad
 
-Esta política de privacidad describe cómo se recopila, utiliza y comparte la información cuando utilizas nuestra aplicación móvil [Nombre de la aplicación].
+Esta política de privacidad describe cómo se recopila, utiliza y comparte la información cuando utilizas nuestra aplicación móvil Dimonis Go.
 
 Recopilación y Uso de la Información
 
@@ -20,5 +20,5 @@ Podemos actualizar nuestra Política de Privacidad de vez en cuando. Por lo tant
 
 Contacto
 
-Si tienes alguna pregunta o inquietud sobre nuestra política de privacidad, contáctanos a través de [correo electrónico de contacto].
+Si tienes alguna pregunta o inquietud sobre nuestra política de privacidad, contáctanos a través de dimonisgo777@gmail.com.
 
